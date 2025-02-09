@@ -2,7 +2,8 @@
 
 A tool to draw in Obsidian markdown notes.
 
-![](Sketch Pen Test.gif)
+![](SketchPen_Test.gif)
+
 ![](Screenshot.png)
 
 ---
@@ -59,15 +60,22 @@ ctx.font = "18px serif";
 
 Many thanks to [obsidian-canvas-api](https://github.com/capogreco/obsidian-canvas-api) for showing how to run p5js sketches inside Obsidian notes. 
 
-
 ## Further
 
 https://developer.mozilla.org/en-US/docs/Web/API/Touch
+
 https://developer.mozilla.org/en-US/docs/Web/API/Touch_events
+
 https://developer.mozilla.org/en-US/docs/Web/API/TouchList
+
 https://developer.mozilla.org/en-US/docs/Web/API/Ink_API
+
 https://developer.mozilla.org/en-US/docs/Web/API/Pointer_events/Multi-touch_interaction
+
 https://developer.mozilla.org/en-US/docs/Web/API/Pointer_events
+
+
+
 
 
 
