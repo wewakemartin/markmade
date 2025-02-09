@@ -60,7 +60,7 @@ ctx.font = "18px serif";
 
 Many thanks to [obsidian-canvas-api](https://github.com/capogreco/obsidian-canvas-api) for showing how to run p5js sketches inside Obsidian notes. 
 
-## Further
+## Further reading:
 
 https://developer.mozilla.org/en-US/docs/Web/API/Touch
 
