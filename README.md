@@ -2,6 +2,24 @@
 
 A tool to draw in Obsidian markdown notes.
 
+---
+### Update 13.02.2025
+
+- Added mouse+touch events
+- Added Brush Size, Opacity and Colour
+- Added Undo and Redo Functionality
+- Added Option to Clear Canvas
+- Added Option to Save canvas
+- Added Option to import image to canvas to annotate
+- Removed Hover box-shadow in Live preview mode
+- Removed code-edit button in Live preview mode
+
+![](Screenshot_2025-02-13_132508.png)
+
+
+
+---
+
 ![](SketchPen_Test.gif)
 
 ![](Screenshot.png)
