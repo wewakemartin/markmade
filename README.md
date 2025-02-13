@@ -78,7 +78,8 @@ ctx.font = "18px serif";
 
 ## Credits:
 
-Many thanks to [obsidian-canvas-api](https://github.com/capogreco/obsidian-canvas-api) for showing how to run p5js sketches inside Obsidian notes. 
+Many thanks to [obsidian-canvas-api](https://github.com/capogreco/obsidian-canvas-api) for showing how to run p5js sketches inside Obsidian notes.
+Thank you very much to [Daniel Shiffman](https://github.com/shiffman), [The Coding Train Community](https://thecodingtrain.com/) and [Processing Community](https://processing.org/).
 
 ## Further reading:
 
