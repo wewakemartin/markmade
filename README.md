@@ -1,6 +1,15 @@
-# Obsidian Sketchpen
+# Markmade
 
 A tool to draw in Obsidian markdown notes.
+
+---
+### Update 08.03.2025
+
+- Updated the User Interface
+- Replaced sliders with buttons
+- Added sub menus
+
+![](Screenshot_2025-03-08_120221.png)
 
 ---
 ### Update 13.02.2025
