@@ -7,7 +7,9 @@ A tool to draw in Obsidian markdown notes.
 
 - Updated the User Interface
 - Replaced sliders with buttons
+- Changed text to icons in buttons
 - Added sub menus
+- Changed plugin name to 'Markmade'
 
 ![](Screenshot_2025-03-08_120221.png)
 
