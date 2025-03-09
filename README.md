@@ -61,6 +61,8 @@ https://developer.mozilla.org/en-US/docs/Web/API/Pointer_events/Multi-touch_inte
 
 https://developer.mozilla.org/en-US/docs/Web/API/Pointer_events
 
+https://developer-docs.wacom.com/docs/icbt/web/web-api-overview/
+
 
 
 
