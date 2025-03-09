@@ -12,6 +12,8 @@ A tool to draw in Obsidian markdown notes.
 - Changed plugin name to 'Markmade'
 
 ![](Screenshot_2025-03-08_120221.png)
+![](Screenshot_2025-03-09_122913.png)
+![](Screenshot_2025-03-09_122925.png)
 
 ---
 ### Update 13.02.2025
