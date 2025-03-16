@@ -3,6 +3,18 @@
 A tool to draw in Obsidian markdown notes.
 
 ---
+### Update 16.03.2025
+
+- User Interface completely functional
+- Embed, Import, Orient Dock, Clear, Delete functions Working
+- Added drawing persistence between Source & Preview Mode
+- Added drawing persistence between sessions
+- Added background auto-save drawing functions
+- Added ribbon button to create new drawing
+
+![](Screenshot_2025-03-16_195134.png)
+
+---
 ### Update 08.03.2025
 
 - Updated the User Interface
