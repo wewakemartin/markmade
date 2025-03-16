@@ -6,6 +6,7 @@ A tool to draw in Obsidian markdown notes.
 ### Update 16.03.2025
 
 - User Interface completely functional
+- User Interface adapts to device pixel density
 - Embed, import, orient dock, clear, delete functions working
 - Added drawing persistence between source & preview mode
 - Added drawing persistence between sessions
