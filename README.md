@@ -3,6 +3,18 @@
 A tool to draw in Obsidian markdown notes.
 
 ---
+### Update 30.03.2025
+
+- Changed Tools Icons
+- Added Optimisations - Eventlisteners and Intervals reduced.
+- Fixed Bugs with AutoSave and loading drawings.
+- Added high resolution drawing feature.
+- Added settings tab to change folderpath, filename and image quality.
+  
+![](Screenshot_2025-03-30_162757.png)
+![](Screenshot_2025-03-30_162830.png)
+  
+---
 ### Update 16.03.2025
 
 - User Interface completely functional
