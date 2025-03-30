@@ -1,0 +1,14 @@
+{
+	"id": "markmade-plugin",
+	"name": "Markmade",
+	"version": "0.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Draw and illustrate in markdown editor. Seamlessly embed your diagrams and sketches in jpg format.",
+	"author": "Vivek Martin",
+	"authorUrl": "https://github.com/wewakemartin",
+	"fundingUrl": {
+		"Paypal": "https://paypal.me/wewakemartin",
+		"Ko-fi": "https://ko-fi.com/wewakemartin"
+	},
+	"isDesktopOnly": false
+}
