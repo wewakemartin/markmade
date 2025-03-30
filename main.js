@@ -3,6 +3,7 @@
 Markmade: Draw and illustrate in Obsidian markdown notes.
 Authored by Vivek Martin.
 
+
 If you use and like this plugin, please consider making a donation, 
 to support the maintenance and further development of the plugin.
 Thank you so much!
