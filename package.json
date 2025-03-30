@@ -1,6 +1,6 @@
 {
-	"name": "obsidian-sketchpen",
-	"version": "0.0.1",
+	"name": "markmade-plugin",
+	"version": "0.1.0",
 	"description": "A tool to draw in Obsidian markdown notes.",
 	"main": "main.js",
 	"scripts": {
