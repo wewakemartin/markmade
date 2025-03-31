@@ -11,7 +11,6 @@ A tool to draw in Obsidian markdown notes.
 - Added high resolution drawing feature.
 - Added settings tab to change folderpath, filename and image quality.
   
-![](Screenshot_2025-03-30_162757.png)
 ![](Screenshot_2025-03-30_162830.png)
   
 ---
